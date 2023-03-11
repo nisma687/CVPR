@@ -1,0 +1,22 @@
+Assignment 1:
+
+Discussion:
+
+#first needed libraries were imported, like os, random,cv2,tqdm,numpy,matplotlib.pyplot.
+#categories were shown
+#then the training dictionary was created and the categories were added to it.
+#then the train data was created and the images were added.
+#then the data was shuffled and the first 50 images were displayed.
+#then the data was split into train and test data.
+#then the knn function was created and the nearest neighbors were found.
+#then the accuracy was calculated.
+#then the accuracy was plotted.
+
+						Assignment 2:
+
+Discussion:
+
+#first libraries were imported and then the x values were defined
+#then the functions were defined and the graphs were plotted
+#the graphs were plotted using the plot_graph function
+
